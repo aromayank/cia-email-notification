@@ -1,0 +1,15 @@
+C:\Users\Administrator\EmailFicoScoreConsole\bin\Debug\net6.0\EmailFicoScoreConsole.exe
+C:\Users\Administrator\EmailFicoScoreConsole\bin\Debug\net6.0\EmailFicoScoreConsole.deps.json
+C:\Users\Administrator\EmailFicoScoreConsole\bin\Debug\net6.0\EmailFicoScoreConsole.runtimeconfig.json
+C:\Users\Administrator\EmailFicoScoreConsole\bin\Debug\net6.0\EmailFicoScoreConsole.dll
+C:\Users\Administrator\EmailFicoScoreConsole\bin\Debug\net6.0\EmailFicoScoreConsole.pdb
+C:\Users\Administrator\EmailFicoScoreConsole\obj\Debug\net6.0\EmailFicoScoreConsole.csproj.AssemblyReference.cache
+C:\Users\Administrator\EmailFicoScoreConsole\obj\Debug\net6.0\EmailFicoScoreConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\EmailFicoScoreConsole\obj\Debug\net6.0\EmailFicoScoreConsole.AssemblyInfoInputs.cache
+C:\Users\Administrator\EmailFicoScoreConsole\obj\Debug\net6.0\EmailFicoScoreConsole.AssemblyInfo.cs
+C:\Users\Administrator\EmailFicoScoreConsole\obj\Debug\net6.0\EmailFicoScoreConsole.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\EmailFicoScoreConsole\obj\Debug\net6.0\EmailFicoScoreConsole.dll
+C:\Users\Administrator\EmailFicoScoreConsole\obj\Debug\net6.0\refint\EmailFicoScoreConsole.dll
+C:\Users\Administrator\EmailFicoScoreConsole\obj\Debug\net6.0\EmailFicoScoreConsole.pdb
+C:\Users\Administrator\EmailFicoScoreConsole\obj\Debug\net6.0\EmailFicoScoreConsole.genruntimeconfig.cache
+C:\Users\Administrator\EmailFicoScoreConsole\obj\Debug\net6.0\ref\EmailFicoScoreConsole.dll
